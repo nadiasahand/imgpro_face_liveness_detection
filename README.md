@@ -13,8 +13,7 @@ This snippet can also be used as a kind of liveness detection method for authent
 
 Here is the model of 68 face landmarks.
 
-![Sixty-eight-facial-landmarks-obtained-by-the-Dlib-facial-landmark-predictor-Kazemi-and.png](attachment:Sixty-eight-facial-landmarks-obtained-by-the-Dlib-facial-landmark-predictor-Kazemi-and.png)
-
+![Sixty-eight-facial-landmarks-obtained-by-the-Dlib-facial-landmark-predictor-Kazemi-and](https://user-images.githubusercontent.com/25687155/177499810-93ae2da3-d1ed-4b61-9ff2-cf61b7b04a74.png)
 
 ```python
 p = "shape_predictor_68_face_landmarks.dat"
