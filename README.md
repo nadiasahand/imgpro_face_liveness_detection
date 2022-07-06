@@ -45,7 +45,7 @@ RIGHT_AR_THRESH = 0.6
 
 In EAR method, aslo known as MAR (Mouth Aspect Ratio), we compute the euclidean distances between the two sets of vertical landmarks and a set of horizontal eye landmark (x, y)-coordinates; then, apply the following formula.
 
-![The-eye-aspect-ratio-is-practically-identical-to-the-mouth-aspect-radio.png](attachment:The-eye-aspect-ratio-is-practically-identical-to-the-mouth-aspect-radio.png)
+![The-eye-aspect-ratio-is-practically-identical-to-the-mouth-aspect-radio](https://user-images.githubusercontent.com/25687155/177499956-9b379bcf-ab6b-4852-8be6-30bceb0653a3.png)
 
 
 ```python
